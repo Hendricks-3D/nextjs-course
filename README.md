@@ -1,3 +1,17 @@
+This is a nextjs projects that covers:
+
+-Routing (nested,  grouping, and params).
+
+-Serve Actions such as creating users and fetching users from mockapi.io endpoint.
+
+-Authentication  using clerk service.
+
+-Route Protections using Clerk middleware service. 
+
+-The uses of various hooks include useState and useEffect.
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
